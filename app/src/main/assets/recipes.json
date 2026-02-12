@@ -105,7 +105,7 @@
       { "name": "Cilantro", "amount": 15, "unit": "G" },
       { "name": "Limón", "amount": 165, "unit": "G" }
     ],
-    "method": "1) Picar muy fino el cilantro (o triturar si prefieres textura lisa).\n2) Mezclar la mayonesa con el cilantro.\n3) Añadir el limón poco a poco y ajustar acidez.\n4) Mantener refrigerada."
+    "method": "1) Picar muy fino el cilantro (o triturar si prefieres textura lisa).\n2) Mezclar la mayonesa con el cilantro.\n3) Añadir el limón .\n4) Mantener refrigerada."
   },
   {
     "id": "curry-chutney",
@@ -117,7 +117,7 @@
       { "name": "Chutney mango dulce", "amount": 250, "unit": "G" },
       { "name": "Pasta de curry amarillo", "amount": 50, "unit": "G" }
     ],
-    "method": "1) Mezclar la salsa de soja dulce con el chutney de mango.\n2) Añadir la pasta de curry y homogeneizar.\n3) Ajustar potencia si hace falta.\n4) Mantener refrigerada."
+    "method": "1) Mezclar la salsa de soja dulce con la pasta de curry amarillo.\n2) Añadir la pasta de mango y homogeneizar.\n3) Mantener refrigerada."
   },
   {
     "id": "dinamita",
@@ -142,6 +142,55 @@
       { "name": "Hondashi", "amount": 20, "unit": "G" },
       { "name": "Agua", "amount": 1000, "unit": "G" }
     ],
-    "method": "1) Calentar el agua sin que hierva fuerte.\n2) Disolver el hondashi.\n3) Apartar del fuego y disolver el miso.\n4) Servir. (Opcional: tofu/algas/cebolleta)."
+    "method": "1) Calentar el agua sin que hierva 3 minutos en microondas.\n2) Disolver el hondashi y disolver el miso."
+  },
+  {
+    "id": "vinagreta-curry",
+    "name": "Vinagreta de Curry",
+    "baseYieldAmount": 750,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Salsa curry miel", "amount": 500, "unit": "G" },
+      { "name": "Vinagre de arroz", "amount": 250, "unit": "G" }
+
+    ],
+    "method": "1) Mezclar la salsa curry miel con el vinagre de arroz.\n2) Remover.\n3) Almacenar y etiquetar."
+  },
+  {
+    "id": "salsa-tartar-de-atun",
+    "name": "Salsa Tartar de Atun",
+    "baseYieldAmount": 1075,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Aceite de Oliva Virgen Extra", "amount": 550, "unit": "G" },
+      { "name": "Salsa de soja", "amount": 400, "unit": "G" },
+      { "name": "Pimienta negra molida", "amount": 5, "unit": "G" },
+      { "name": "Limon", "amount": 120, "unit": "G" }
+
+    ],
+    "method": "1) Mezclar en un bol la soja, el aceite de oliva, zumo de limon y la pimineta negra.\n2) Remover.\n3) Almacenar y etiquetar."
+  },
+  {
+    "id": "salsa-petazeta",
+    "name": "Salsa PetaZeta",
+    "baseYieldAmount": 710,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Mayonesa Japonesa QP", "amount": 500, "unit": "G" },
+      { "name": "Tobiko Rojo", "amount": 210, "unit": "G" }
+    ],
+    "method": "1) Mezclar en un bol la mayonesa japonesa con el tobiko rojo.\n2) Remover.\n3) Etiquetar y almacenar en frio."
+  },
+  {
+    "id": "nari",
+    "name": "Nari",
+    "baseYieldAmount": 1000,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Setas variadas", "amount": 840, "unit": "G" },
+      { "name": "Cebolla frita", "amount": 170, "unit": "G" },
+      { "name": "Salsa anguila", "amount": 110, "unit": "G" }
+    ],
+    "method": "1) Picar el mix de setas con cuchillo.\n2) Agregar la cebolla frita, la salsa y mezclar.\n3) Etiquetar y almacenar en frio."
   }
 ]
