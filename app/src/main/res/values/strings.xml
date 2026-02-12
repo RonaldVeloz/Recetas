@@ -1,3 +1,31 @@
 <resources>
+    <!-- General -->
+    <string name="app_title">Recetas</string>
+    <string name="back_arrow">← Volver</string>
+
+    <!-- List -->
+    <string name="title_recipes">Recetas</string>
+    <string name="search_hint">Buscar (receta o ingrediente)</string>
+    <string name="no_results">No se encontraron recetas</string>
+    <string name="yield_base">Rinde (base): %1$s</string>
+
+    <!-- Detail -->
+    <string name="yield">Rinde: %1$s</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="method">Elaboración</string>
+
+    <!-- Scaling -->
+    <string name="reset">Reset</string>
+    <string name="free_factor">Factor libre</string>
+    <string name="factor_example">Ej: 1.5</string>
+    <string name="apply">Aplicar</string>
+    <string name="current_factor">Factor actual: %1$s</string>
+
+    <!-- Ingredient-based scaling -->
+    <string name="adjust_by_ingredient">Ajustar por ingrediente</string>
+    <string name="ingredient_reference">Ingrediente de referencia</string>
+    <string name="new_amount">Nueva cantidad (%1$s)</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="adjust_keeps_proportions">El resto se ajusta manteniendo proporciones.</string>
     <string name="app_name">Recetas</string>
 </resources>
