@@ -1,0 +1,147 @@
+[
+  {
+    "id": "miel-mostaza",
+    "name": "Miel Mostaza",
+    "baseYieldAmount": 1300,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Miel de flores", "amount": 400, "unit": "G" },
+      { "name": "Mostaza", "amount": 200, "unit": "G" },
+      { "name": "Vinagre de arroz", "amount": 200, "unit": "G" },
+      { "name": "Aceite de oliva", "amount": 500, "unit": "G" }
+    ],
+    "method": "1) Mezclar la miel con la mostaza hasta homogeneizar.\n2) Añadir el vinagre de arroz y mezclar bien.\n3) Emulsionar incorporando el aceite en hilo fino.\n4) Ajustar al gusto y guardar en frío."
+  },
+  {
+    "id": "tempura",
+    "name": "Tempura",
+    "baseYieldAmount": 1850,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Tempurako", "amount": 850, "unit": "G" },
+      { "name": "Agua", "amount": 1000, "unit": "G" }
+    ],
+    "method": "1) Enfriar bien el agua.\n2) Mezclar ligeramente el tempurako con el agua fría.\n3) No sobrebatir: la mezcla debe quedar irregular.\n4) Usar inmediatamente."
+  },
+  {
+    "id": "morenito",
+    "name": "Morenito",
+    "baseYieldAmount": 1085,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Atún fresco", "amount": 1000, "unit": "G" },
+      { "name": "Cebollino", "amount": 10, "unit": "G" },
+      { "name": "Sriracha", "amount": 70, "unit": "G" },
+      { "name": "Aceite de sésamo", "amount": 5, "unit": "G" }
+    ],
+    "method": "1) Separar la carne magra del atún de las fibras con una cuchara.\n2) Mezclar el atún, el aceite de sésamo, el cebollino y la sriracha.\n3) Mantener frío."
+  },
+  {
+    "id": "maremoto",
+    "name": "Maremoto",
+    "baseYieldAmount": 1085,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Salmón", "amount": 1000, "unit": "G" },
+      { "name": "Cebollino", "amount": 10, "unit": "G" },
+      { "name": "Sriracha", "amount": 70, "unit": "G" },
+      { "name": "Aceite de sésamo", "amount": 5, "unit": "G" }
+    ],
+    "method": "1) Cortar salmón muy picadito tipo tataki.\n2) Mezclar en un bol el salmón, el aceite de sésamo, sriracha y cebollino.\n3) Mantener frío."
+  },
+  {
+    "id": "salsa-shibuya",
+    "name": "Salsa Shibuya",
+    "baseYieldAmount": 980,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Leche condensada", "amount": 400, "unit": "G" },
+      { "name": "Mayonesa japonesa", "amount": 500, "unit": "G" },
+      { "name": "Zumo de naranja", "amount": 80, "unit": "G" }
+    ],
+    "method": "1) Mezclar la mayonesa japonesa con la leche condensada.\n2) Añadir el zumo de naranja poco a poco.\n3) Ajustar textura y sabor.\n4) Mantener refrigerada."
+  },
+  {
+    "id": "salsa-curry-miel",
+    "name": "Salsa Curry Miel",
+    "baseYieldAmount": 370,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Pasta de curry amarillo", "amount": 60, "unit": "G" },
+      { "name": "Mayonesa japonesa", "amount": 250, "unit": "G" },
+      { "name": "Miel de flores", "amount": 60, "unit": "G" }
+    ],
+    "method": "1) Mezclar la mayonesa japonesa con la pasta de curry amarillo.\n2) Añadir la miel y homogeneizar.\n3) Probar y ajustar.\n4) Mantener refrigerada."
+  },
+  {
+    "id": "salsa-mayo-trufa",
+    "name": "Salsa Mayo Trufa",
+    "baseYieldAmount": 60,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Mayonesa japonesa", "amount": 50, "unit": "G" },
+      { "name": "Salsa de trufa", "amount": 10, "unit": "G" }
+    ],
+    "method": "1) Mezclar la mayonesa con la salsa de trufa.\n2) Reposar 10 minutos.\n3) Mantener refrigerada."
+  },
+  {
+    "id": "salsa-mayo-curry",
+    "name": "Salsa Mayo Curry",
+    "baseYieldAmount": 1150,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Mayonesa japonesa", "amount": 1000, "unit": "G" },
+      { "name": "Curry amarillo", "amount": 150, "unit": "G" }
+    ],
+    "method": "1) Mezclar la mayonesa japonesa con el curry.\n2) Homogeneizar bien.\n3) Mantener refrigerada."
+  },
+  {
+    "id": "salsa-acevichada",
+    "name": "Salsa Acevichada",
+    "baseYieldAmount": 680,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Mayonesa (cubo)", "amount": 500, "unit": "G" },
+      { "name": "Cilantro", "amount": 15, "unit": "G" },
+      { "name": "Limón", "amount": 165, "unit": "G" }
+    ],
+    "method": "1) Picar muy fino el cilantro (o triturar si prefieres textura lisa).\n2) Mezclar la mayonesa con el cilantro.\n3) Añadir el limón poco a poco y ajustar acidez.\n4) Mantener refrigerada."
+  },
+  {
+    "id": "curry-chutney",
+    "name": "Curry Chutney",
+    "baseYieldAmount": 700,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Salsa de soja dulce Yanwalyum", "amount": 400, "unit": "G" },
+      { "name": "Chutney mango dulce", "amount": 250, "unit": "G" },
+      { "name": "Pasta de curry amarillo", "amount": 50, "unit": "G" }
+    ],
+    "method": "1) Mezclar la salsa de soja dulce con el chutney de mango.\n2) Añadir la pasta de curry y homogeneizar.\n3) Ajustar potencia si hace falta.\n4) Mantener refrigerada."
+  },
+  {
+    "id": "dinamita",
+    "name": "Dinamita",
+    "baseYieldAmount": 520,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Surimi rallado", "amount": 375, "unit": "G" },
+      { "name": "Tobiko rojo", "amount": 30, "unit": "G" },
+      { "name": "Mayonesa japonesa", "amount": 65, "unit": "G" },
+      { "name": "Sriracha", "amount": 50, "unit": "G" }
+    ],
+    "method": "1) Escurrir muy bien el surimi.\n2) Mezclar en un bol el surimi con la mayonesa.\n3) Añadir la sriracha y homogeneizar.\n4) Incorporar el tobiko al final, mezclando suave.\n5) Mantener refrigerado."
+  },
+  {
+    "id": "sopa-miso",
+    "name": "Sopa Miso",
+    "baseYieldAmount": 1070,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Shiro miso (pasta de soja clara)", "amount": 50, "unit": "G" },
+      { "name": "Hondashi", "amount": 20, "unit": "G" },
+      { "name": "Agua", "amount": 1000, "unit": "G" }
+    ],
+    "method": "1) Calentar el agua sin que hierva fuerte.\n2) Disolver el hondashi.\n3) Apartar del fuego y disolver el miso.\n4) Servir. (Opcional: tofu/algas/cebolleta)."
+  }
+]
