@@ -1,6 +1,6 @@
 <resources>
     <!-- General -->
-    <string name="app_title">Recetas</string>
+    <string name="app_name">Recetas</string>
     <string name="back_arrow">← Volver</string>
 
     <!-- List -->
@@ -15,6 +15,7 @@
     <string name="method">Elaboración</string>
 
     <!-- Scaling -->
+    <string name="multiply_by">x%1$d</string>
     <string name="reset">Reset</string>
     <string name="free_factor">Factor libre</string>
     <string name="factor_example">Ej: 1.5</string>
@@ -27,5 +28,12 @@
     <string name="new_amount">Nueva cantidad (%1$s)</string>
     <string name="recalculate">Recalcular</string>
     <string name="adjust_keeps_proportions">El resto se ajusta manteniendo proporciones.</string>
-    <string name="app_name">Recetas</string>
+
+    <!-- Errors -->
+    <string name="error_recipe_not_found">Receta no encontrada</string>
+    <string name="error_invalid_factor">El factor debe ser mayor que 0</string>
+    <string name="error_invalid_amount">La cantidad debe ser mayor que 0</string>
+    <string name="error_ingredient_not_found">Ingrediente no encontrado</string>
+    <string name="error_invalid_base_amount">Cantidad base inválida</string>
+
 </resources>
