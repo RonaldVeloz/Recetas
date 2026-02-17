@@ -158,7 +158,7 @@
   },
   {
     "id": "salsa-tartar-de-atun",
-    "name": "Salsa Tartar de Atun",
+    "name": "Salsa Tartar de Atún",
     "baseYieldAmount": 1075,
     "baseYieldUnit": "G",
     "ingredients": [
@@ -193,4 +193,123 @@
     ],
     "method": "1) Picar el mix de setas con cuchillo.\n2) Agregar la cebolla frita, la salsa y mezclar.\n3) Etiquetar y almacenar en frio."
   }
+,
+  {
+    "id": "salsa-base",
+    "name": "Salsa Base salsas",
+    "baseYieldAmount": 2640,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Aceite girasol", "amount": 1800, "unit": "G" },
+      { "name": "Leche de Soja", "amount": 750, "unit": "ML" },
+      { "name": "Sal", "amount": 45, "unit": "G" },
+      { "name": "Vinagre", "amount": 45, "unit": "G" },
+      { "name": "Whisky", "amount": 37.5, "unit": "G" }
+    ],
+    "method": "1) Añadir Leche  y Sal.\n2) Agregar el aceite poco a poco.\n3) Al final añadimos vinagre y whisky y terminar de mezclar."
+  }
+,
+  {
+    "id": "salsa-blanca",
+    "name": "Salsa Blanca",
+    "baseYieldAmount": 1870,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Salsa base", "amount": 1800, "unit": "G" },
+      { "name": "Vinagre", "amount": 70, "unit": "G" }
+    ],
+    "method": "1) Mezclar la salsa bse con el vinagre con batidora.\n2) Embotellar."
+  }
+,
+  {
+    "id": "salsa-picante",
+    "name": "Salsa picante",
+    "baseYieldAmount": 1650,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Salsa base", "amount": 1500, "unit": "G" },
+      { "name": "Sriracha", "amount": 150, "unit": "G" }
+    ],
+    "method": "1) Mezclar la salsa base con la sriracha con batidora.\n2) Embotellar."
+  }
+
+,
+  {
+    "id": "salsa-wasabi",
+    "name": "Salsa Wasabi picante",
+    "baseYieldAmount": 1830,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Salsa base", "amount": 1500, "unit": "G" },
+      { "name": "Pasta de wasabi", "amount": 330, "unit": "G" }
+    ],
+    "method": "1) Mezclar la salsa base con la pasta de wasabi con batidora.\n2) Hacer movimientos embolventes con lengua para mezclar muy bien la salsa y no dejar pegotes de pasta de wasabki."
+  }
+,
+  {
+    "id": "salsa-sesamo",
+    "name": "Salsa Sesamo",
+    "baseYieldAmount": 320,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Salsa base", "amount": 40, "unit": "G" },
+      { "name": "Vinagre", "amount": 40, "unit": "G" },
+      { "name": "Pasta de sésamo", "amount": 160, "unit": "G" },
+      { "name": "Leche de soja", "amount": 80, "unit": "G" }
+    ],
+    "method": "1) Mezclar muy bien la pasta de sesamo, que se suavice la pasta.\n2) Mezclar todos los ingredientes en un bol. \n3) Embotellar"
+  },
+
+
+  {
+    "id": "mayonesa-picante",
+    "name": "Mayonesa Picante",
+    "baseYieldAmount": 20,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Mayonesa japonesa", "amount": 8, "unit": "G" },
+      { "name": "Sriracha", "amount": 12, "unit": "G" }
+
+    ],
+    "method": "1) Mezclar muy bien los ingredientes."
+  }
+,
+  {
+    "id": "tortilla-japonesa",
+    "name": "Tortilla Japonesa tamago",
+    "baseYieldAmount": 4700,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Yema de huevo pasteurizado botella", "amount": 1, "unit": "UDS" },
+      { "name": "Huevo entero pasteurizado botella", "amount": 3, "unit": "UDS" },
+      { "name": "Soja original", "amount": 260, "unit": "G" },
+      { "name": "Azucar", "amount": 370, "unit": "G" },
+      { "name": "Agua", "amount": 50, "unit": "G" },
+      { "name": "Kombu-dashi", "amount": 6, "unit": "G" },
+      { "name": "Harina", "amount": 10, "unit": "G" }
+    ],
+    "method": "1) Mezclar el agua, kombu y harina en un bol.\n2) Mezclar Yema, huevo entero, soja y azucar y el caldo kombu antes mezclado. \n3) Llamar a alguién que sepa cocinarlo en sarten cuadrado."
+  }
+,
+  {
+    "id": "ramen-pollo",
+    "name": "Ramen de pollo",
+    "baseYieldAmount": 4700,
+    "baseYieldUnit": "G",
+    "ingredients": [
+      { "name": "Agua", "amount": 3000, "unit": "ML" },
+      { "name": "Pollo contramuslo", "amount": 500, "unit": "G" },
+      { "name": "Soja original", "amount": 100, "unit": "ML" },
+      { "name": "Mirin", "amount": 50, "unit": "ML" },
+      { "name": "Cebolleta", "amount": 2, "unit": "UDS" },
+      { "name": "Cebolla", "amount": 2, "unit": "UDS" },
+      { "name": "Zanahoria", "amount": 1, "unit": "UDS" },
+      { "name": "Jengibre", "amount": 1, "unit": "UDS" },
+      { "name": "Ajo diente", "amount": 5, "unit": "UDS" }
+    ],
+    "method": "1) Preparar el pollo: quitamos la piel del contramuslo de pollo, reservando la piel para preparar el aceite aromático y salpimentamos por ambos lados. \nApilamos el pollo uno encima del otro. Enrollamos y con hilo de cocina lo atamos bien para que mantenga su forma.\n\n2) Cortar las verduras: cortar la cebolla y la zanahoria en trozos, la cebolla en cuatro, el jengibre por la mitad, el ajo lo chafamos un poco y reservamos todo para luego. \n\n3)  En una olla ponemos un poco de aceite y sellamos el pollo, cuando esté dorado, retiramos del fuego y ponemos los huesos a dorar.\nAgregamos el agua y las verduras que hemos reservado, cebolleta, jengibre, ajos, zanahoria y cebolla."
+
+
+  }
+
 ]
